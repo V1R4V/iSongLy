@@ -81,9 +81,5 @@ The application is divided into three main components:
 
 ## Contributors
 
-- **[Your Name]**: Development and design of the app.
+- **[Vibhrav]**: Development and design of the app.
 - **Collaborators**: Contributions to specific modules and testing.
-
----
-
-Let me know if you'd like to add or modify any section!
