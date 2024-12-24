@@ -81,5 +81,5 @@ The application is divided into three main components:
 
 ## Contributors
 
-- **[Vibhrav]**: Development and design of the app.
-- **Collaborators**: Contributions to specific modules and testing.
+- **Vibhrav**: Development and design of the app.
+- **Collaborators**: None
