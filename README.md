@@ -71,6 +71,8 @@ The application is divided into three main components:
    ```bash
    java App
    ```
+   <img width="1421" alt="image" src="https://github.com/user-attachments/assets/59e68ef3-a1ee-4304-bb06-5774580fcda0" />
+
 3. Follow the on-screen instructions to load songs, apply filters, and explore the collection.
 
 ## Future Enhancements
